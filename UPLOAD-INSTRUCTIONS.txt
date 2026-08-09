@@ -1,0 +1,12 @@
+# Me To You Designs — Boys' Pyjama Catalogue
+
+Upload these files to the repository root:
+
+- index.html
+- logo.jpeg
+- PJ01.webp through PJ30.webp
+
+The page is already set up to display PJ01–PJ30 in order, exactly in the catalogue cards.
+If an image is uploaded as `.jpeg` instead of `.webp`, the card will fall back to the `.jpeg` file.
+
+Do not rename the PJ numbers if you want them to appear in the intended order.
